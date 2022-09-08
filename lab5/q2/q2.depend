@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656260583 source:d:\semester materials\2nd sem\prog\lab\lab5\q2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656451715 source:d:\semester materials\2nd sem\prog\lab\lab5\bubble sort (descending) in cll.\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
